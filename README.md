@@ -1,47 +1,38 @@
 # SpendTrack 💰
 
-SpendTrack is a simple budget calculator that helps users manage their monthly income, track expenses across different categories, and calculate their remaining budget.
+**SpendTrack** is a simple monthly budget calculator built to help users keep track of their income and expenses. It allows users to add expenses under different categories and see how much money they have left or how much they have exceeded their budget.
 
 ## Features
 
 - Enter monthly income.
 - Add expenses under different categories.
 - Calculate total expenses.
-- View your remaining budget.
-- Get notified when expenses exceed your income.
-- Clear entries and start a new calculation.
+- View remaining budget.
+- Check when expenses exceed the available income.
+- Clear all entries and start again.
 
-## Built With
+## Technologies Used
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
-## What I Learned
+## How to Use
 
-While building this project, I practised:
-
-- DOM manipulation and event listeners.
-- Working with functions, loops, and arrays.
-- Dynamically creating HTML elements with JavaScript.
-- Handling user input and invalid values.
-- Using regular expressions.
-- Performing calculations and updating the UI.
-
-## Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Kenny-dev-futa/SpendTrack.git
-   ```
-2. Open the project folder.
-3. Open `index.html` in your browser.
+1. Enter your monthly income.
+2. Add your rent amount.
+3. Select an expense category.
+4. Add your expenses and their amounts.
+5. Click **Calculate Remaining Budget** to see your result.
 
 ## Live Demo
 
-[View SpendTrack](#)
+[View SpendTrack](ADD-YOUR-LIVE-LINK-HERE)
 
-## Author
+## About the Project
 
-Built by **Kenny** as part of my JavaScript learning journey during GrowthHub Builder Season.
+This project was built as part of my frontend development learning journey. It helped me practise JavaScript concepts such as DOM manipulation, event handling, functions, loops, regular expressions, and working with user input.
 
+---
+
+Built by **Kenny** 🚀
