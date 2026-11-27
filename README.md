@@ -27,7 +27,7 @@
 
 ## Live Demo
 
-[View SpendTrack](ADD-YOUR-LIVE-LINK-HERE)
+[View SpendTrack](https://github.com/Kenny-dev-futa/SpendTrack)
 
 ## About the Project
 
